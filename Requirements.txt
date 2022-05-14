@@ -1,0 +1,5 @@
+Python 3.9
+Python datetime
+Python requests
+Python numpy 
+Python pandas
